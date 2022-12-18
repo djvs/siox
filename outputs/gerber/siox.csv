@@ -1,7 +1,7 @@
 "Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
 1;"J19,J16";"PsioPin";2;"IO_PI";;;
 2;"J18,J17";"PsioPin";2;"M7";;;
-3;"J15";"PsioPin";1;"IO_CE";;;
+3;"J15";"PsioPin";1;"IO_PE";;;
 4;"J14";"PsioPin";1;"IO_GND_4";;;
 5;"J13";"PsioPin";1;"IO_GND_3";;;
 6;"J12";"PsioPin";1;"IO_GND_2";;;

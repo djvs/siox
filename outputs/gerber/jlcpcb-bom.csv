@@ -1,7 +1,7 @@
 Comment,Footprint,Designator,JLCPCB Part #（optional )
 "IO_PI","PsioPin","J19,J16"
 "M7","PsioPin","J18,J17"
-"IO_CE","PsioPin","J15"
+"IO_PE","PsioPin","J15"
 "IO_GND_4","PsioPin","J14"
 "IO_GND_3","PsioPin","J13"
 "IO_GND_2","PsioPin","J12"

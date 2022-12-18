@@ -1,5 +1,5 @@
 Drill report for siox.kicad_pcb
-Created on Sat 17 Dec 2022 09:10:17 PM EST
+Created on Sat 17 Dec 2022 10:04:54 PM EST
 
 Copper Layer Stackup:
     =============================================================
@@ -10,11 +10,11 @@ Copper Layer Stackup:
 Drill file 'siox-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (45 holes)
+    T1  0.400mm  0.0157"  (35 holes)
     T2  1.000mm  0.0394"  (9 holes)
     T3  1.020mm  0.0402"  (59 holes)
 
-    Total plated holes count 113
+    Total plated holes count 103
 
 
 Drill file 'siox-NPTH.drl' contains
